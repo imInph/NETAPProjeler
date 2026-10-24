@@ -1,0 +1,14 @@
+C:\Users\ogrenci\Desktop\Miraç Arda Canbulat\Dongu\Dongu\obj\Debug\net8.0\Dongu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ogrenci\Desktop\Miraç Arda Canbulat\Dongu\Dongu\obj\Debug\net8.0\Dongu.AssemblyInfoInputs.cache
+C:\Users\ogrenci\Desktop\Miraç Arda Canbulat\Dongu\Dongu\obj\Debug\net8.0\Dongu.AssemblyInfo.cs
+C:\Users\ogrenci\Desktop\Miraç Arda Canbulat\Dongu\Dongu\obj\Debug\net8.0\Dongu.csproj.CoreCompileInputs.cache
+C:\Users\ogrenci\Desktop\Miraç Arda Canbulat\Dongu\Dongu\bin\Debug\net8.0\Dongu.exe
+C:\Users\ogrenci\Desktop\Miraç Arda Canbulat\Dongu\Dongu\bin\Debug\net8.0\Dongu.deps.json
+C:\Users\ogrenci\Desktop\Miraç Arda Canbulat\Dongu\Dongu\bin\Debug\net8.0\Dongu.runtimeconfig.json
+C:\Users\ogrenci\Desktop\Miraç Arda Canbulat\Dongu\Dongu\bin\Debug\net8.0\Dongu.dll
+C:\Users\ogrenci\Desktop\Miraç Arda Canbulat\Dongu\Dongu\bin\Debug\net8.0\Dongu.pdb
+C:\Users\ogrenci\Desktop\Miraç Arda Canbulat\Dongu\Dongu\obj\Debug\net8.0\Dongu.dll
+C:\Users\ogrenci\Desktop\Miraç Arda Canbulat\Dongu\Dongu\obj\Debug\net8.0\refint\Dongu.dll
+C:\Users\ogrenci\Desktop\Miraç Arda Canbulat\Dongu\Dongu\obj\Debug\net8.0\Dongu.pdb
+C:\Users\ogrenci\Desktop\Miraç Arda Canbulat\Dongu\Dongu\obj\Debug\net8.0\Dongu.genruntimeconfig.cache
+C:\Users\ogrenci\Desktop\Miraç Arda Canbulat\Dongu\Dongu\obj\Debug\net8.0\ref\Dongu.dll

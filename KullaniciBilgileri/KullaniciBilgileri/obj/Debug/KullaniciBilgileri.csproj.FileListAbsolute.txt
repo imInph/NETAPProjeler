@@ -1,0 +1,10 @@
+C:\Users\ogrenci\Desktop\Miraç Arda\Ders\Netap\KullaniciBilgileri\KullaniciBilgileri\bin\Debug\KullaniciBilgileri.exe.config
+C:\Users\ogrenci\Desktop\Miraç Arda\Ders\Netap\KullaniciBilgileri\KullaniciBilgileri\bin\Debug\KullaniciBilgileri.exe
+C:\Users\ogrenci\Desktop\Miraç Arda\Ders\Netap\KullaniciBilgileri\KullaniciBilgileri\bin\Debug\KullaniciBilgileri.pdb
+C:\Users\ogrenci\Desktop\Miraç Arda\Ders\Netap\KullaniciBilgileri\KullaniciBilgileri\obj\Debug\KullaniciBilgileri.csproj.AssemblyReference.cache
+C:\Users\ogrenci\Desktop\Miraç Arda\Ders\Netap\KullaniciBilgileri\KullaniciBilgileri\obj\Debug\KullaniciBilgileri.Form1.resources
+C:\Users\ogrenci\Desktop\Miraç Arda\Ders\Netap\KullaniciBilgileri\KullaniciBilgileri\obj\Debug\KullaniciBilgileri.Properties.Resources.resources
+C:\Users\ogrenci\Desktop\Miraç Arda\Ders\Netap\KullaniciBilgileri\KullaniciBilgileri\obj\Debug\KullaniciBilgileri.csproj.GenerateResource.cache
+C:\Users\ogrenci\Desktop\Miraç Arda\Ders\Netap\KullaniciBilgileri\KullaniciBilgileri\obj\Debug\KullaniciBilgileri.csproj.CoreCompileInputs.cache
+C:\Users\ogrenci\Desktop\Miraç Arda\Ders\Netap\KullaniciBilgileri\KullaniciBilgileri\obj\Debug\KullaniciBilgileri.exe
+C:\Users\ogrenci\Desktop\Miraç Arda\Ders\Netap\KullaniciBilgileri\KullaniciBilgileri\obj\Debug\KullaniciBilgileri.pdb

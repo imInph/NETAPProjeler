@@ -1,0 +1,10 @@
+C:\Users\ogrenci\Desktop\Miraç Arda Canbulat\AramaButonu\AramaButonu\obj\Debug\AramaButonu.csproj.AssemblyReference.cache
+C:\Users\ogrenci\Desktop\Miraç Arda Canbulat\AramaButonu\AramaButonu\obj\Debug\AramaButonu.Form1.resources
+C:\Users\ogrenci\Desktop\Miraç Arda Canbulat\AramaButonu\AramaButonu\obj\Debug\AramaButonu.Properties.Resources.resources
+C:\Users\ogrenci\Desktop\Miraç Arda Canbulat\AramaButonu\AramaButonu\obj\Debug\AramaButonu.csproj.GenerateResource.cache
+C:\Users\ogrenci\Desktop\Miraç Arda Canbulat\AramaButonu\AramaButonu\obj\Debug\AramaButonu.csproj.CoreCompileInputs.cache
+C:\Users\ogrenci\Desktop\Miraç Arda Canbulat\AramaButonu\AramaButonu\bin\Debug\AramaButonu.exe.config
+C:\Users\ogrenci\Desktop\Miraç Arda Canbulat\AramaButonu\AramaButonu\bin\Debug\AramaButonu.exe
+C:\Users\ogrenci\Desktop\Miraç Arda Canbulat\AramaButonu\AramaButonu\bin\Debug\AramaButonu.pdb
+C:\Users\ogrenci\Desktop\Miraç Arda Canbulat\AramaButonu\AramaButonu\obj\Debug\AramaButonu.exe
+C:\Users\ogrenci\Desktop\Miraç Arda Canbulat\AramaButonu\AramaButonu\obj\Debug\AramaButonu.pdb

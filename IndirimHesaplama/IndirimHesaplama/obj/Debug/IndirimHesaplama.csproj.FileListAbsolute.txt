@@ -1,0 +1,10 @@
+C:\Users\ogrenci\Desktop\Miraç Arda\Ders\Netap\IndirimHesaplama\IndirimHesaplama\bin\Debug\IndirimHesaplama.exe.config
+C:\Users\ogrenci\Desktop\Miraç Arda\Ders\Netap\IndirimHesaplama\IndirimHesaplama\bin\Debug\IndirimHesaplama.exe
+C:\Users\ogrenci\Desktop\Miraç Arda\Ders\Netap\IndirimHesaplama\IndirimHesaplama\bin\Debug\IndirimHesaplama.pdb
+C:\Users\ogrenci\Desktop\Miraç Arda\Ders\Netap\IndirimHesaplama\IndirimHesaplama\obj\Debug\IndirimHesaplama.csproj.AssemblyReference.cache
+C:\Users\ogrenci\Desktop\Miraç Arda\Ders\Netap\IndirimHesaplama\IndirimHesaplama\obj\Debug\IndirimHesaplama.Form1.resources
+C:\Users\ogrenci\Desktop\Miraç Arda\Ders\Netap\IndirimHesaplama\IndirimHesaplama\obj\Debug\IndirimHesaplama.Properties.Resources.resources
+C:\Users\ogrenci\Desktop\Miraç Arda\Ders\Netap\IndirimHesaplama\IndirimHesaplama\obj\Debug\IndirimHesaplama.csproj.GenerateResource.cache
+C:\Users\ogrenci\Desktop\Miraç Arda\Ders\Netap\IndirimHesaplama\IndirimHesaplama\obj\Debug\IndirimHesaplama.csproj.CoreCompileInputs.cache
+C:\Users\ogrenci\Desktop\Miraç Arda\Ders\Netap\IndirimHesaplama\IndirimHesaplama\obj\Debug\IndirimHesaplama.exe
+C:\Users\ogrenci\Desktop\Miraç Arda\Ders\Netap\IndirimHesaplama\IndirimHesaplama\obj\Debug\IndirimHesaplama.pdb

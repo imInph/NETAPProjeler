@@ -1,0 +1,10 @@
+C:\Users\ogrenci\Desktop\Miraç Arda Canbulat\AdanZyeKadar\AdanZyeKadar\bin\Debug\AdanZyeKadar.exe.config
+C:\Users\ogrenci\Desktop\Miraç Arda Canbulat\AdanZyeKadar\AdanZyeKadar\bin\Debug\AdanZyeKadar.exe
+C:\Users\ogrenci\Desktop\Miraç Arda Canbulat\AdanZyeKadar\AdanZyeKadar\bin\Debug\AdanZyeKadar.pdb
+C:\Users\ogrenci\Desktop\Miraç Arda Canbulat\AdanZyeKadar\AdanZyeKadar\obj\Debug\AdanZyeKadar.csproj.AssemblyReference.cache
+C:\Users\ogrenci\Desktop\Miraç Arda Canbulat\AdanZyeKadar\AdanZyeKadar\obj\Debug\AdanZyeKadar.Form1.resources
+C:\Users\ogrenci\Desktop\Miraç Arda Canbulat\AdanZyeKadar\AdanZyeKadar\obj\Debug\AdanZyeKadar.Properties.Resources.resources
+C:\Users\ogrenci\Desktop\Miraç Arda Canbulat\AdanZyeKadar\AdanZyeKadar\obj\Debug\AdanZyeKadar.csproj.GenerateResource.cache
+C:\Users\ogrenci\Desktop\Miraç Arda Canbulat\AdanZyeKadar\AdanZyeKadar\obj\Debug\AdanZyeKadar.csproj.CoreCompileInputs.cache
+C:\Users\ogrenci\Desktop\Miraç Arda Canbulat\AdanZyeKadar\AdanZyeKadar\obj\Debug\AdanZyeKadar.exe
+C:\Users\ogrenci\Desktop\Miraç Arda Canbulat\AdanZyeKadar\AdanZyeKadar\obj\Debug\AdanZyeKadar.pdb

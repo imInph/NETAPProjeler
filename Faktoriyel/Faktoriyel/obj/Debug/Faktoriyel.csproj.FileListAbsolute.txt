@@ -1,0 +1,10 @@
+C:\Users\ogrenci\Desktop\Miraç Arda Canbulat\Faktoriyel\Faktoriyel\bin\Debug\Faktoriyel.exe.config
+C:\Users\ogrenci\Desktop\Miraç Arda Canbulat\Faktoriyel\Faktoriyel\bin\Debug\Faktoriyel.exe
+C:\Users\ogrenci\Desktop\Miraç Arda Canbulat\Faktoriyel\Faktoriyel\bin\Debug\Faktoriyel.pdb
+C:\Users\ogrenci\Desktop\Miraç Arda Canbulat\Faktoriyel\Faktoriyel\obj\Debug\Faktoriyel.csproj.AssemblyReference.cache
+C:\Users\ogrenci\Desktop\Miraç Arda Canbulat\Faktoriyel\Faktoriyel\obj\Debug\Faktoriyel.Form1.resources
+C:\Users\ogrenci\Desktop\Miraç Arda Canbulat\Faktoriyel\Faktoriyel\obj\Debug\Faktoriyel.Properties.Resources.resources
+C:\Users\ogrenci\Desktop\Miraç Arda Canbulat\Faktoriyel\Faktoriyel\obj\Debug\Faktoriyel.csproj.GenerateResource.cache
+C:\Users\ogrenci\Desktop\Miraç Arda Canbulat\Faktoriyel\Faktoriyel\obj\Debug\Faktoriyel.csproj.CoreCompileInputs.cache
+C:\Users\ogrenci\Desktop\Miraç Arda Canbulat\Faktoriyel\Faktoriyel\obj\Debug\Faktoriyel.exe
+C:\Users\ogrenci\Desktop\Miraç Arda Canbulat\Faktoriyel\Faktoriyel\obj\Debug\Faktoriyel.pdb

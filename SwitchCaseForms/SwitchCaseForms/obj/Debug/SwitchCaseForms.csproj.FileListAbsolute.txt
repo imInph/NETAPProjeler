@@ -1,0 +1,10 @@
+C:\Users\ogrenci\Desktop\Miraç Arda Canbulat\SwitchCaseForms\SwitchCaseForms\bin\Debug\SwitchCaseForms.exe.config
+C:\Users\ogrenci\Desktop\Miraç Arda Canbulat\SwitchCaseForms\SwitchCaseForms\bin\Debug\SwitchCaseForms.exe
+C:\Users\ogrenci\Desktop\Miraç Arda Canbulat\SwitchCaseForms\SwitchCaseForms\bin\Debug\SwitchCaseForms.pdb
+C:\Users\ogrenci\Desktop\Miraç Arda Canbulat\SwitchCaseForms\SwitchCaseForms\obj\Debug\SwitchCaseForms.csproj.AssemblyReference.cache
+C:\Users\ogrenci\Desktop\Miraç Arda Canbulat\SwitchCaseForms\SwitchCaseForms\obj\Debug\SwitchCaseForms.Form1.resources
+C:\Users\ogrenci\Desktop\Miraç Arda Canbulat\SwitchCaseForms\SwitchCaseForms\obj\Debug\SwitchCaseForms.Properties.Resources.resources
+C:\Users\ogrenci\Desktop\Miraç Arda Canbulat\SwitchCaseForms\SwitchCaseForms\obj\Debug\SwitchCaseForms.csproj.GenerateResource.cache
+C:\Users\ogrenci\Desktop\Miraç Arda Canbulat\SwitchCaseForms\SwitchCaseForms\obj\Debug\SwitchCaseForms.csproj.CoreCompileInputs.cache
+C:\Users\ogrenci\Desktop\Miraç Arda Canbulat\SwitchCaseForms\SwitchCaseForms\obj\Debug\SwitchCaseForms.exe
+C:\Users\ogrenci\Desktop\Miraç Arda Canbulat\SwitchCaseForms\SwitchCaseForms\obj\Debug\SwitchCaseForms.pdb

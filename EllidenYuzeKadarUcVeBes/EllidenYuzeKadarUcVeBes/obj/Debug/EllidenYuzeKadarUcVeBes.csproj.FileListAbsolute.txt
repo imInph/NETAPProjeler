@@ -1,0 +1,10 @@
+C:\Users\ogrenci\Desktop\Miraç Arda Canbulat\EllidenYuzeKadarUcVeBes\EllidenYuzeKadarUcVeBes\bin\Debug\EllidenYuzeKadarUcVeBes.exe.config
+C:\Users\ogrenci\Desktop\Miraç Arda Canbulat\EllidenYuzeKadarUcVeBes\EllidenYuzeKadarUcVeBes\bin\Debug\EllidenYuzeKadarUcVeBes.exe
+C:\Users\ogrenci\Desktop\Miraç Arda Canbulat\EllidenYuzeKadarUcVeBes\EllidenYuzeKadarUcVeBes\bin\Debug\EllidenYuzeKadarUcVeBes.pdb
+C:\Users\ogrenci\Desktop\Miraç Arda Canbulat\EllidenYuzeKadarUcVeBes\EllidenYuzeKadarUcVeBes\obj\Debug\EllidenYuzeKadarUcVeBes.csproj.AssemblyReference.cache
+C:\Users\ogrenci\Desktop\Miraç Arda Canbulat\EllidenYuzeKadarUcVeBes\EllidenYuzeKadarUcVeBes\obj\Debug\EllidenYuzeKadarUcVeBes.Form1.resources
+C:\Users\ogrenci\Desktop\Miraç Arda Canbulat\EllidenYuzeKadarUcVeBes\EllidenYuzeKadarUcVeBes\obj\Debug\EllidenYuzeKadarUcVeBes.Properties.Resources.resources
+C:\Users\ogrenci\Desktop\Miraç Arda Canbulat\EllidenYuzeKadarUcVeBes\EllidenYuzeKadarUcVeBes\obj\Debug\EllidenYuzeKadarUcVeBes.csproj.GenerateResource.cache
+C:\Users\ogrenci\Desktop\Miraç Arda Canbulat\EllidenYuzeKadarUcVeBes\EllidenYuzeKadarUcVeBes\obj\Debug\EllidenYuzeKadarUcVeBes.csproj.CoreCompileInputs.cache
+C:\Users\ogrenci\Desktop\Miraç Arda Canbulat\EllidenYuzeKadarUcVeBes\EllidenYuzeKadarUcVeBes\obj\Debug\EllidenYuzeKadarUcVeBes.exe
+C:\Users\ogrenci\Desktop\Miraç Arda Canbulat\EllidenYuzeKadarUcVeBes\EllidenYuzeKadarUcVeBes\obj\Debug\EllidenYuzeKadarUcVeBes.pdb

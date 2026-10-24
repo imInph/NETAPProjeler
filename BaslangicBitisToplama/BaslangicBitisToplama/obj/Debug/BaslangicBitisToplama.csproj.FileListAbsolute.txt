@@ -1,0 +1,10 @@
+C:\Users\ogrenci\Desktop\Miraç Arda Canbulat\BaslangicBitisToplama\BaslangicBitisToplama\bin\Debug\BaslangicBitisToplama.exe.config
+C:\Users\ogrenci\Desktop\Miraç Arda Canbulat\BaslangicBitisToplama\BaslangicBitisToplama\bin\Debug\BaslangicBitisToplama.exe
+C:\Users\ogrenci\Desktop\Miraç Arda Canbulat\BaslangicBitisToplama\BaslangicBitisToplama\bin\Debug\BaslangicBitisToplama.pdb
+C:\Users\ogrenci\Desktop\Miraç Arda Canbulat\BaslangicBitisToplama\BaslangicBitisToplama\obj\Debug\BaslangicBitisToplama.csproj.AssemblyReference.cache
+C:\Users\ogrenci\Desktop\Miraç Arda Canbulat\BaslangicBitisToplama\BaslangicBitisToplama\obj\Debug\BaslangicBitisToplama.Form1.resources
+C:\Users\ogrenci\Desktop\Miraç Arda Canbulat\BaslangicBitisToplama\BaslangicBitisToplama\obj\Debug\BaslangicBitisToplama.Properties.Resources.resources
+C:\Users\ogrenci\Desktop\Miraç Arda Canbulat\BaslangicBitisToplama\BaslangicBitisToplama\obj\Debug\BaslangicBitisToplama.csproj.GenerateResource.cache
+C:\Users\ogrenci\Desktop\Miraç Arda Canbulat\BaslangicBitisToplama\BaslangicBitisToplama\obj\Debug\BaslangicBitisToplama.csproj.CoreCompileInputs.cache
+C:\Users\ogrenci\Desktop\Miraç Arda Canbulat\BaslangicBitisToplama\BaslangicBitisToplama\obj\Debug\BaslangicBitisToplama.exe
+C:\Users\ogrenci\Desktop\Miraç Arda Canbulat\BaslangicBitisToplama\BaslangicBitisToplama\obj\Debug\BaslangicBitisToplama.pdb

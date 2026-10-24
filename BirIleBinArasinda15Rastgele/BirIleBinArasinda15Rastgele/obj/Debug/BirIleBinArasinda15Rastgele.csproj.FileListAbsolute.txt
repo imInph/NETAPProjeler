@@ -1,0 +1,10 @@
+C:\Users\ogrenci\Desktop\Miraç Arda Canbulat\BirIleBinArasinda15Rastgele\BirIleBinArasinda15Rastgele\bin\Debug\BirIleBinArasinda15Rastgele.exe.config
+C:\Users\ogrenci\Desktop\Miraç Arda Canbulat\BirIleBinArasinda15Rastgele\BirIleBinArasinda15Rastgele\bin\Debug\BirIleBinArasinda15Rastgele.exe
+C:\Users\ogrenci\Desktop\Miraç Arda Canbulat\BirIleBinArasinda15Rastgele\BirIleBinArasinda15Rastgele\bin\Debug\BirIleBinArasinda15Rastgele.pdb
+C:\Users\ogrenci\Desktop\Miraç Arda Canbulat\BirIleBinArasinda15Rastgele\BirIleBinArasinda15Rastgele\obj\Debug\BirIleBinArasinda15Rastgele.csproj.AssemblyReference.cache
+C:\Users\ogrenci\Desktop\Miraç Arda Canbulat\BirIleBinArasinda15Rastgele\BirIleBinArasinda15Rastgele\obj\Debug\BirIleBinArasinda15Rastgele.Form1.resources
+C:\Users\ogrenci\Desktop\Miraç Arda Canbulat\BirIleBinArasinda15Rastgele\BirIleBinArasinda15Rastgele\obj\Debug\BirIleBinArasinda15Rastgele.Properties.Resources.resources
+C:\Users\ogrenci\Desktop\Miraç Arda Canbulat\BirIleBinArasinda15Rastgele\BirIleBinArasinda15Rastgele\obj\Debug\BirIleBinArasinda15Rastgele.csproj.GenerateResource.cache
+C:\Users\ogrenci\Desktop\Miraç Arda Canbulat\BirIleBinArasinda15Rastgele\BirIleBinArasinda15Rastgele\obj\Debug\BirIleBinArasinda15Rastgele.csproj.CoreCompileInputs.cache
+C:\Users\ogrenci\Desktop\Miraç Arda Canbulat\BirIleBinArasinda15Rastgele\BirIleBinArasinda15Rastgele\obj\Debug\BirIleBinArasinda15Rastgele.exe
+C:\Users\ogrenci\Desktop\Miraç Arda Canbulat\BirIleBinArasinda15Rastgele\BirIleBinArasinda15Rastgele\obj\Debug\BirIleBinArasinda15Rastgele.pdb

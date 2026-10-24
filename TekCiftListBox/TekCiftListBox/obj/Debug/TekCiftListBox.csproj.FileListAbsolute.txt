@@ -1,0 +1,10 @@
+C:\Users\ogrenci\Desktop\Miraç Arda Canbulat\TekCiftListBox\TekCiftListBox\bin\Debug\TekCiftListBox.exe.config
+C:\Users\ogrenci\Desktop\Miraç Arda Canbulat\TekCiftListBox\TekCiftListBox\bin\Debug\TekCiftListBox.exe
+C:\Users\ogrenci\Desktop\Miraç Arda Canbulat\TekCiftListBox\TekCiftListBox\bin\Debug\TekCiftListBox.pdb
+C:\Users\ogrenci\Desktop\Miraç Arda Canbulat\TekCiftListBox\TekCiftListBox\obj\Debug\TekCiftListBox.csproj.AssemblyReference.cache
+C:\Users\ogrenci\Desktop\Miraç Arda Canbulat\TekCiftListBox\TekCiftListBox\obj\Debug\TekCiftListBox.Form1.resources
+C:\Users\ogrenci\Desktop\Miraç Arda Canbulat\TekCiftListBox\TekCiftListBox\obj\Debug\TekCiftListBox.Properties.Resources.resources
+C:\Users\ogrenci\Desktop\Miraç Arda Canbulat\TekCiftListBox\TekCiftListBox\obj\Debug\TekCiftListBox.csproj.GenerateResource.cache
+C:\Users\ogrenci\Desktop\Miraç Arda Canbulat\TekCiftListBox\TekCiftListBox\obj\Debug\TekCiftListBox.csproj.CoreCompileInputs.cache
+C:\Users\ogrenci\Desktop\Miraç Arda Canbulat\TekCiftListBox\TekCiftListBox\obj\Debug\TekCiftListBox.exe
+C:\Users\ogrenci\Desktop\Miraç Arda Canbulat\TekCiftListBox\TekCiftListBox\obj\Debug\TekCiftListBox.pdb

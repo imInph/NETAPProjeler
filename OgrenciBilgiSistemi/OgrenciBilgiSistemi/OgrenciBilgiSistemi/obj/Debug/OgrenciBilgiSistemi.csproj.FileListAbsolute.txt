@@ -1,0 +1,15 @@
+C:\Users\kae\Desktop\Arda Canbulat\OgrenciBilgiSistemi\OgrenciBilgiSistemi\bin\Debug\OgrenciBilgiSistemi.exe.config
+C:\Users\kae\Desktop\Arda Canbulat\OgrenciBilgiSistemi\OgrenciBilgiSistemi\bin\Debug\OgrenciBilgiSistemi.exe
+C:\Users\kae\Desktop\Arda Canbulat\OgrenciBilgiSistemi\OgrenciBilgiSistemi\bin\Debug\OgrenciBilgiSistemi.pdb
+C:\Users\kae\Desktop\Arda Canbulat\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.csproj.AssemblyReference.cache
+C:\Users\kae\Desktop\Arda Canbulat\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.kullaniciEkDeg.resources
+C:\Users\kae\Desktop\Arda Canbulat\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.LogIn.resources
+C:\Users\kae\Desktop\Arda Canbulat\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.MainPage.resources
+C:\Users\kae\Desktop\Arda Canbulat\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.OgrenciEkleSil.resources
+C:\Users\kae\Desktop\Arda Canbulat\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.ogrenciNot.resources
+C:\Users\kae\Desktop\Arda Canbulat\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.Properties.Resources.resources
+C:\Users\kae\Desktop\Arda Canbulat\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.csproj.GenerateResource.cache
+C:\Users\kae\Desktop\Arda Canbulat\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.csproj.CoreCompileInputs.cache
+C:\Users\kae\Desktop\Arda Canbulat\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.exe
+C:\Users\kae\Desktop\Arda Canbulat\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.pdb
+C:\Users\kae\Desktop\Arda Canbulat\OgrenciBilgiSistemi\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.ogrenciNotGirisi.resources

@@ -1,0 +1,10 @@
+C:\Users\ogrenci\Desktop\Miraç Arda\Ders\Netap\OgrenciGecmeDurumu\OgrenciGecmeDurumu\bin\Debug\OgrenciGecmeDurumu.exe.config
+C:\Users\ogrenci\Desktop\Miraç Arda\Ders\Netap\OgrenciGecmeDurumu\OgrenciGecmeDurumu\bin\Debug\OgrenciGecmeDurumu.exe
+C:\Users\ogrenci\Desktop\Miraç Arda\Ders\Netap\OgrenciGecmeDurumu\OgrenciGecmeDurumu\bin\Debug\OgrenciGecmeDurumu.pdb
+C:\Users\ogrenci\Desktop\Miraç Arda\Ders\Netap\OgrenciGecmeDurumu\OgrenciGecmeDurumu\obj\Debug\OgrenciGecmeDurumu.csproj.AssemblyReference.cache
+C:\Users\ogrenci\Desktop\Miraç Arda\Ders\Netap\OgrenciGecmeDurumu\OgrenciGecmeDurumu\obj\Debug\OgrenciGecmeDurumu.Form1.resources
+C:\Users\ogrenci\Desktop\Miraç Arda\Ders\Netap\OgrenciGecmeDurumu\OgrenciGecmeDurumu\obj\Debug\OgrenciGecmeDurumu.Properties.Resources.resources
+C:\Users\ogrenci\Desktop\Miraç Arda\Ders\Netap\OgrenciGecmeDurumu\OgrenciGecmeDurumu\obj\Debug\OgrenciGecmeDurumu.csproj.GenerateResource.cache
+C:\Users\ogrenci\Desktop\Miraç Arda\Ders\Netap\OgrenciGecmeDurumu\OgrenciGecmeDurumu\obj\Debug\OgrenciGecmeDurumu.csproj.CoreCompileInputs.cache
+C:\Users\ogrenci\Desktop\Miraç Arda\Ders\Netap\OgrenciGecmeDurumu\OgrenciGecmeDurumu\obj\Debug\OgrenciGecmeDurumu.exe
+C:\Users\ogrenci\Desktop\Miraç Arda\Ders\Netap\OgrenciGecmeDurumu\OgrenciGecmeDurumu\obj\Debug\OgrenciGecmeDurumu.pdb

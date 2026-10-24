@@ -1,0 +1,10 @@
+C:\Users\ogrenci\Desktop\Miraç Arda Canbulat\BirdenOnaKadarWhile\BirdenOnaKadarWhile\bin\Debug\BirdenOnaKadarWhile.exe.config
+C:\Users\ogrenci\Desktop\Miraç Arda Canbulat\BirdenOnaKadarWhile\BirdenOnaKadarWhile\bin\Debug\BirdenOnaKadarWhile.exe
+C:\Users\ogrenci\Desktop\Miraç Arda Canbulat\BirdenOnaKadarWhile\BirdenOnaKadarWhile\bin\Debug\BirdenOnaKadarWhile.pdb
+C:\Users\ogrenci\Desktop\Miraç Arda Canbulat\BirdenOnaKadarWhile\BirdenOnaKadarWhile\obj\Debug\BirdenOnaKadarWhile.csproj.AssemblyReference.cache
+C:\Users\ogrenci\Desktop\Miraç Arda Canbulat\BirdenOnaKadarWhile\BirdenOnaKadarWhile\obj\Debug\BirdenOnaKadarWhile.Form1.resources
+C:\Users\ogrenci\Desktop\Miraç Arda Canbulat\BirdenOnaKadarWhile\BirdenOnaKadarWhile\obj\Debug\BirdenOnaKadarWhile.Properties.Resources.resources
+C:\Users\ogrenci\Desktop\Miraç Arda Canbulat\BirdenOnaKadarWhile\BirdenOnaKadarWhile\obj\Debug\BirdenOnaKadarWhile.csproj.GenerateResource.cache
+C:\Users\ogrenci\Desktop\Miraç Arda Canbulat\BirdenOnaKadarWhile\BirdenOnaKadarWhile\obj\Debug\BirdenOnaKadarWhile.csproj.CoreCompileInputs.cache
+C:\Users\ogrenci\Desktop\Miraç Arda Canbulat\BirdenOnaKadarWhile\BirdenOnaKadarWhile\obj\Debug\BirdenOnaKadarWhile.exe
+C:\Users\ogrenci\Desktop\Miraç Arda Canbulat\BirdenOnaKadarWhile\BirdenOnaKadarWhile\obj\Debug\BirdenOnaKadarWhile.pdb

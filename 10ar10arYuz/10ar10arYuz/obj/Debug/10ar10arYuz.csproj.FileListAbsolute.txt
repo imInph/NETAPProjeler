@@ -1,0 +1,10 @@
+C:\Users\ogrenci\Desktop\Miraç Arda Canbulat\10ar10arYuz\10ar10arYuz\bin\Debug\10ar10arYuz.exe.config
+C:\Users\ogrenci\Desktop\Miraç Arda Canbulat\10ar10arYuz\10ar10arYuz\bin\Debug\10ar10arYuz.exe
+C:\Users\ogrenci\Desktop\Miraç Arda Canbulat\10ar10arYuz\10ar10arYuz\bin\Debug\10ar10arYuz.pdb
+C:\Users\ogrenci\Desktop\Miraç Arda Canbulat\10ar10arYuz\10ar10arYuz\obj\Debug\10ar10arYuz.csproj.AssemblyReference.cache
+C:\Users\ogrenci\Desktop\Miraç Arda Canbulat\10ar10arYuz\10ar10arYuz\obj\Debug\_10ar10arYuz.Form1.resources
+C:\Users\ogrenci\Desktop\Miraç Arda Canbulat\10ar10arYuz\10ar10arYuz\obj\Debug\_10ar10arYuz.Properties.Resources.resources
+C:\Users\ogrenci\Desktop\Miraç Arda Canbulat\10ar10arYuz\10ar10arYuz\obj\Debug\10ar10arYuz.csproj.GenerateResource.cache
+C:\Users\ogrenci\Desktop\Miraç Arda Canbulat\10ar10arYuz\10ar10arYuz\obj\Debug\10ar10arYuz.csproj.CoreCompileInputs.cache
+C:\Users\ogrenci\Desktop\Miraç Arda Canbulat\10ar10arYuz\10ar10arYuz\obj\Debug\10ar10arYuz.exe
+C:\Users\ogrenci\Desktop\Miraç Arda Canbulat\10ar10arYuz\10ar10arYuz\obj\Debug\10ar10arYuz.pdb

@@ -1,0 +1,10 @@
+C:\Users\ogrenci\Desktop\Miraç Arda Canbulat\KullaniciAdiSifre\KullaniciAdiSifre\bin\Debug\KullaniciAdiSifre.exe.config
+C:\Users\ogrenci\Desktop\Miraç Arda Canbulat\KullaniciAdiSifre\KullaniciAdiSifre\bin\Debug\KullaniciAdiSifre.exe
+C:\Users\ogrenci\Desktop\Miraç Arda Canbulat\KullaniciAdiSifre\KullaniciAdiSifre\bin\Debug\KullaniciAdiSifre.pdb
+C:\Users\ogrenci\Desktop\Miraç Arda Canbulat\KullaniciAdiSifre\KullaniciAdiSifre\obj\Debug\KullaniciAdiSifre.csproj.AssemblyReference.cache
+C:\Users\ogrenci\Desktop\Miraç Arda Canbulat\KullaniciAdiSifre\KullaniciAdiSifre\obj\Debug\KullaniciAdiSifre.Form1.resources
+C:\Users\ogrenci\Desktop\Miraç Arda Canbulat\KullaniciAdiSifre\KullaniciAdiSifre\obj\Debug\KullaniciAdiSifre.Properties.Resources.resources
+C:\Users\ogrenci\Desktop\Miraç Arda Canbulat\KullaniciAdiSifre\KullaniciAdiSifre\obj\Debug\KullaniciAdiSifre.csproj.GenerateResource.cache
+C:\Users\ogrenci\Desktop\Miraç Arda Canbulat\KullaniciAdiSifre\KullaniciAdiSifre\obj\Debug\KullaniciAdiSifre.csproj.CoreCompileInputs.cache
+C:\Users\ogrenci\Desktop\Miraç Arda Canbulat\KullaniciAdiSifre\KullaniciAdiSifre\obj\Debug\KullaniciAdiSifre.exe
+C:\Users\ogrenci\Desktop\Miraç Arda Canbulat\KullaniciAdiSifre\KullaniciAdiSifre\obj\Debug\KullaniciAdiSifre.pdb

@@ -1,0 +1,1 @@
+mdb dosyalari AppData\Local\Apps\2.0 icine kopyalandiginda calisiyor

@@ -1,0 +1,10 @@
+C:\Users\ogrenci\Desktop\Miraç Arda\Ders\Netap\KararYapilari\KararYapilari\bin\Debug\KararYapilari.exe.config
+C:\Users\ogrenci\Desktop\Miraç Arda\Ders\Netap\KararYapilari\KararYapilari\bin\Debug\KararYapilari.exe
+C:\Users\ogrenci\Desktop\Miraç Arda\Ders\Netap\KararYapilari\KararYapilari\bin\Debug\KararYapilari.pdb
+C:\Users\ogrenci\Desktop\Miraç Arda\Ders\Netap\KararYapilari\KararYapilari\obj\Debug\KararYapilari.csproj.AssemblyReference.cache
+C:\Users\ogrenci\Desktop\Miraç Arda\Ders\Netap\KararYapilari\KararYapilari\obj\Debug\KararYapilari.Form1.resources
+C:\Users\ogrenci\Desktop\Miraç Arda\Ders\Netap\KararYapilari\KararYapilari\obj\Debug\KararYapilari.Properties.Resources.resources
+C:\Users\ogrenci\Desktop\Miraç Arda\Ders\Netap\KararYapilari\KararYapilari\obj\Debug\KararYapilari.csproj.GenerateResource.cache
+C:\Users\ogrenci\Desktop\Miraç Arda\Ders\Netap\KararYapilari\KararYapilari\obj\Debug\KararYapilari.csproj.CoreCompileInputs.cache
+C:\Users\ogrenci\Desktop\Miraç Arda\Ders\Netap\KararYapilari\KararYapilari\obj\Debug\KararYapilari.exe
+C:\Users\ogrenci\Desktop\Miraç Arda\Ders\Netap\KararYapilari\KararYapilari\obj\Debug\KararYapilari.pdb

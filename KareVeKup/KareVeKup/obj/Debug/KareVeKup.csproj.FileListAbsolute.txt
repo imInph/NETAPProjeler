@@ -1,0 +1,10 @@
+C:\Users\ogrenci\Desktop\Miraç Arda\Ders\Netap\KareVeKup\KareVeKup\bin\Debug\KareVeKup.exe.config
+C:\Users\ogrenci\Desktop\Miraç Arda\Ders\Netap\KareVeKup\KareVeKup\bin\Debug\KareVeKup.exe
+C:\Users\ogrenci\Desktop\Miraç Arda\Ders\Netap\KareVeKup\KareVeKup\bin\Debug\KareVeKup.pdb
+C:\Users\ogrenci\Desktop\Miraç Arda\Ders\Netap\KareVeKup\KareVeKup\obj\Debug\KareVeKup.csproj.AssemblyReference.cache
+C:\Users\ogrenci\Desktop\Miraç Arda\Ders\Netap\KareVeKup\KareVeKup\obj\Debug\KareVeKup.Form1.resources
+C:\Users\ogrenci\Desktop\Miraç Arda\Ders\Netap\KareVeKup\KareVeKup\obj\Debug\KareVeKup.Properties.Resources.resources
+C:\Users\ogrenci\Desktop\Miraç Arda\Ders\Netap\KareVeKup\KareVeKup\obj\Debug\KareVeKup.csproj.GenerateResource.cache
+C:\Users\ogrenci\Desktop\Miraç Arda\Ders\Netap\KareVeKup\KareVeKup\obj\Debug\KareVeKup.csproj.CoreCompileInputs.cache
+C:\Users\ogrenci\Desktop\Miraç Arda\Ders\Netap\KareVeKup\KareVeKup\obj\Debug\KareVeKup.exe
+C:\Users\ogrenci\Desktop\Miraç Arda\Ders\Netap\KareVeKup\KareVeKup\obj\Debug\KareVeKup.pdb

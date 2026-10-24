@@ -1,0 +1,20 @@
+C:\Users\ogrenci\Desktop\SAKIN AÇMA TEHLİKE BURDAN GELDİ\TekMiCiftMi\TekMiCiftMi\bin\Debug\TekMiCiftMi.exe.config
+C:\Users\ogrenci\Desktop\SAKIN AÇMA TEHLİKE BURDAN GELDİ\TekMiCiftMi\TekMiCiftMi\bin\Debug\TekMiCiftMi.exe
+C:\Users\ogrenci\Desktop\SAKIN AÇMA TEHLİKE BURDAN GELDİ\TekMiCiftMi\TekMiCiftMi\bin\Debug\TekMiCiftMi.pdb
+C:\Users\ogrenci\Desktop\SAKIN AÇMA TEHLİKE BURDAN GELDİ\TekMiCiftMi\TekMiCiftMi\obj\Debug\TekMiCiftMi.csproj.AssemblyReference.cache
+C:\Users\ogrenci\Desktop\SAKIN AÇMA TEHLİKE BURDAN GELDİ\TekMiCiftMi\TekMiCiftMi\obj\Debug\TekMiCiftMi.Form1.resources
+C:\Users\ogrenci\Desktop\SAKIN AÇMA TEHLİKE BURDAN GELDİ\TekMiCiftMi\TekMiCiftMi\obj\Debug\TekMiCiftMi.Properties.Resources.resources
+C:\Users\ogrenci\Desktop\SAKIN AÇMA TEHLİKE BURDAN GELDİ\TekMiCiftMi\TekMiCiftMi\obj\Debug\TekMiCiftMi.csproj.GenerateResource.cache
+C:\Users\ogrenci\Desktop\SAKIN AÇMA TEHLİKE BURDAN GELDİ\TekMiCiftMi\TekMiCiftMi\obj\Debug\TekMiCiftMi.csproj.CoreCompileInputs.cache
+C:\Users\ogrenci\Desktop\SAKIN AÇMA TEHLİKE BURDAN GELDİ\TekMiCiftMi\TekMiCiftMi\obj\Debug\TekMiCiftMi.exe
+C:\Users\ogrenci\Desktop\SAKIN AÇMA TEHLİKE BURDAN GELDİ\TekMiCiftMi\TekMiCiftMi\obj\Debug\TekMiCiftMi.pdb
+C:\Users\ogrenci\Desktop\Miraç Arda\Ders\Netap\TekMiCiftMi\TekMiCiftMi\bin\Debug\TekMiCiftMi.exe.config
+C:\Users\ogrenci\Desktop\Miraç Arda\Ders\Netap\TekMiCiftMi\TekMiCiftMi\bin\Debug\TekMiCiftMi.exe
+C:\Users\ogrenci\Desktop\Miraç Arda\Ders\Netap\TekMiCiftMi\TekMiCiftMi\bin\Debug\TekMiCiftMi.pdb
+C:\Users\ogrenci\Desktop\Miraç Arda\Ders\Netap\TekMiCiftMi\TekMiCiftMi\obj\Debug\TekMiCiftMi.csproj.AssemblyReference.cache
+C:\Users\ogrenci\Desktop\Miraç Arda\Ders\Netap\TekMiCiftMi\TekMiCiftMi\obj\Debug\TekMiCiftMi.Form1.resources
+C:\Users\ogrenci\Desktop\Miraç Arda\Ders\Netap\TekMiCiftMi\TekMiCiftMi\obj\Debug\TekMiCiftMi.Properties.Resources.resources
+C:\Users\ogrenci\Desktop\Miraç Arda\Ders\Netap\TekMiCiftMi\TekMiCiftMi\obj\Debug\TekMiCiftMi.csproj.GenerateResource.cache
+C:\Users\ogrenci\Desktop\Miraç Arda\Ders\Netap\TekMiCiftMi\TekMiCiftMi\obj\Debug\TekMiCiftMi.csproj.CoreCompileInputs.cache
+C:\Users\ogrenci\Desktop\Miraç Arda\Ders\Netap\TekMiCiftMi\TekMiCiftMi\obj\Debug\TekMiCiftMi.exe
+C:\Users\ogrenci\Desktop\Miraç Arda\Ders\Netap\TekMiCiftMi\TekMiCiftMi\obj\Debug\TekMiCiftMi.pdb

@@ -1,0 +1,10 @@
+C:\Users\ogrenci\Desktop\Miraç Arda\Ders\Netap\DikdortgenAlan\DikdortgenAlan\bin\Debug\DikdortgenAlan.exe.config
+C:\Users\ogrenci\Desktop\Miraç Arda\Ders\Netap\DikdortgenAlan\DikdortgenAlan\bin\Debug\DikdortgenAlan.exe
+C:\Users\ogrenci\Desktop\Miraç Arda\Ders\Netap\DikdortgenAlan\DikdortgenAlan\bin\Debug\DikdortgenAlan.pdb
+C:\Users\ogrenci\Desktop\Miraç Arda\Ders\Netap\DikdortgenAlan\DikdortgenAlan\obj\Debug\DikdortgenAlan.csproj.AssemblyReference.cache
+C:\Users\ogrenci\Desktop\Miraç Arda\Ders\Netap\DikdortgenAlan\DikdortgenAlan\obj\Debug\DikdortgenAlan.Form1.resources
+C:\Users\ogrenci\Desktop\Miraç Arda\Ders\Netap\DikdortgenAlan\DikdortgenAlan\obj\Debug\DikdortgenAlan.Properties.Resources.resources
+C:\Users\ogrenci\Desktop\Miraç Arda\Ders\Netap\DikdortgenAlan\DikdortgenAlan\obj\Debug\DikdortgenAlan.csproj.GenerateResource.cache
+C:\Users\ogrenci\Desktop\Miraç Arda\Ders\Netap\DikdortgenAlan\DikdortgenAlan\obj\Debug\DikdortgenAlan.csproj.CoreCompileInputs.cache
+C:\Users\ogrenci\Desktop\Miraç Arda\Ders\Netap\DikdortgenAlan\DikdortgenAlan\obj\Debug\DikdortgenAlan.exe
+C:\Users\ogrenci\Desktop\Miraç Arda\Ders\Netap\DikdortgenAlan\DikdortgenAlan\obj\Debug\DikdortgenAlan.pdb

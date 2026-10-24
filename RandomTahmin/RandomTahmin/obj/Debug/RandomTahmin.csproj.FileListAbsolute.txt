@@ -1,0 +1,10 @@
+C:\Users\ogrenci\Desktop\Miraç Arda Canbulat\RandomTahmin\RandomTahmin\bin\Debug\RandomTahmin.exe.config
+C:\Users\ogrenci\Desktop\Miraç Arda Canbulat\RandomTahmin\RandomTahmin\bin\Debug\RandomTahmin.exe
+C:\Users\ogrenci\Desktop\Miraç Arda Canbulat\RandomTahmin\RandomTahmin\bin\Debug\RandomTahmin.pdb
+C:\Users\ogrenci\Desktop\Miraç Arda Canbulat\RandomTahmin\RandomTahmin\obj\Debug\RandomTahmin.csproj.AssemblyReference.cache
+C:\Users\ogrenci\Desktop\Miraç Arda Canbulat\RandomTahmin\RandomTahmin\obj\Debug\RandomTahmin.Form1.resources
+C:\Users\ogrenci\Desktop\Miraç Arda Canbulat\RandomTahmin\RandomTahmin\obj\Debug\RandomTahmin.Properties.Resources.resources
+C:\Users\ogrenci\Desktop\Miraç Arda Canbulat\RandomTahmin\RandomTahmin\obj\Debug\RandomTahmin.csproj.GenerateResource.cache
+C:\Users\ogrenci\Desktop\Miraç Arda Canbulat\RandomTahmin\RandomTahmin\obj\Debug\RandomTahmin.csproj.CoreCompileInputs.cache
+C:\Users\ogrenci\Desktop\Miraç Arda Canbulat\RandomTahmin\RandomTahmin\obj\Debug\RandomTahmin.exe
+C:\Users\ogrenci\Desktop\Miraç Arda Canbulat\RandomTahmin\RandomTahmin\obj\Debug\RandomTahmin.pdb

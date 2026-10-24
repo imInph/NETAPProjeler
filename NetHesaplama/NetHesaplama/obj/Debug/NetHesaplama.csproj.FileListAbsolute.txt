@@ -1,0 +1,10 @@
+C:\Users\ogrenci\Desktop\Miraç Arda\Ders\Netap\NetHesaplama\NetHesaplama\bin\Debug\NetHesaplama.exe.config
+C:\Users\ogrenci\Desktop\Miraç Arda\Ders\Netap\NetHesaplama\NetHesaplama\bin\Debug\NetHesaplama.exe
+C:\Users\ogrenci\Desktop\Miraç Arda\Ders\Netap\NetHesaplama\NetHesaplama\bin\Debug\NetHesaplama.pdb
+C:\Users\ogrenci\Desktop\Miraç Arda\Ders\Netap\NetHesaplama\NetHesaplama\obj\Debug\NetHesaplama.csproj.AssemblyReference.cache
+C:\Users\ogrenci\Desktop\Miraç Arda\Ders\Netap\NetHesaplama\NetHesaplama\obj\Debug\NetHesaplama.Form1.resources
+C:\Users\ogrenci\Desktop\Miraç Arda\Ders\Netap\NetHesaplama\NetHesaplama\obj\Debug\NetHesaplama.Properties.Resources.resources
+C:\Users\ogrenci\Desktop\Miraç Arda\Ders\Netap\NetHesaplama\NetHesaplama\obj\Debug\NetHesaplama.csproj.GenerateResource.cache
+C:\Users\ogrenci\Desktop\Miraç Arda\Ders\Netap\NetHesaplama\NetHesaplama\obj\Debug\NetHesaplama.csproj.CoreCompileInputs.cache
+C:\Users\ogrenci\Desktop\Miraç Arda\Ders\Netap\NetHesaplama\NetHesaplama\obj\Debug\NetHesaplama.exe
+C:\Users\ogrenci\Desktop\Miraç Arda\Ders\Netap\NetHesaplama\NetHesaplama\obj\Debug\NetHesaplama.pdb

@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ogrenci\\Desktop\\Mira\u00E7 Arda Canbulat\\EllidenYuzeKadarUcVeBes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0A31A3CD-5082-4C1F-9C95-884932CDD416}|EllidenYuzeKadarUcVeBes\\EllidenYuzeKadarUcVeBes.csproj|c:\\users\\ogrenci\\desktop\\mira\u00E7 arda canbulat\\ellidenyuzekadarucvebes\\ellidenyuzekadarucvebes\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A31A3CD-5082-4C1F-9C95-884932CDD416}|EllidenYuzeKadarUcVeBes\\EllidenYuzeKadarUcVeBes.csproj|solutionrelative:ellidenyuzekadarucvebes\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A31A3CD-5082-4C1F-9C95-884932CDD416}|EllidenYuzeKadarUcVeBes\\EllidenYuzeKadarUcVeBes.csproj|C:\\Users\\ogrenci\\Desktop\\Mira\u00E7 Arda Canbulat\\EllidenYuzeKadarUcVeBes\\ellidenyuzekadarucvebes\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0A31A3CD-5082-4C1F-9C95-884932CDD416}|EllidenYuzeKadarUcVeBes\\EllidenYuzeKadarUcVeBes.csproj|solutionrelative:ellidenyuzekadarucvebes\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\ogrenci\\Desktop\\Mira\u00E7 Arda Canbulat\\EllidenYuzeKadarUcVeBes\\EllidenYuzeKadarUcVeBes\\Form1.cs",
+              "RelativeDocumentMoniker": "EllidenYuzeKadarUcVeBes\\Form1.cs",
+              "ToolTip": "C:\\Users\\ogrenci\\Desktop\\Mira\u00E7 Arda Canbulat\\EllidenYuzeKadarUcVeBes\\EllidenYuzeKadarUcVeBes\\Form1.cs",
+              "RelativeToolTip": "EllidenYuzeKadarUcVeBes\\Form1.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T13:24:22.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\ogrenci\\Desktop\\Mira\u00E7 Arda Canbulat\\EllidenYuzeKadarUcVeBes\\EllidenYuzeKadarUcVeBes\\Form1.cs",
+              "RelativeDocumentMoniker": "EllidenYuzeKadarUcVeBes\\Form1.cs",
+              "ToolTip": "C:\\Users\\ogrenci\\Desktop\\Mira\u00E7 Arda Canbulat\\EllidenYuzeKadarUcVeBes\\EllidenYuzeKadarUcVeBes\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "EllidenYuzeKadarUcVeBes\\Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T13:20:40.851Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

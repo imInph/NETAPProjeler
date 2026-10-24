@@ -1,0 +1,10 @@
+C:\Users\ogrenci\Desktop\Miraç Arda Canbulat\ForDongusuBirdenElliye\ForDongusuBirdenElliye\bin\Debug\ForDongusuBirdenElliye.exe.config
+C:\Users\ogrenci\Desktop\Miraç Arda Canbulat\ForDongusuBirdenElliye\ForDongusuBirdenElliye\bin\Debug\ForDongusuBirdenElliye.exe
+C:\Users\ogrenci\Desktop\Miraç Arda Canbulat\ForDongusuBirdenElliye\ForDongusuBirdenElliye\bin\Debug\ForDongusuBirdenElliye.pdb
+C:\Users\ogrenci\Desktop\Miraç Arda Canbulat\ForDongusuBirdenElliye\ForDongusuBirdenElliye\obj\Debug\ForDongusuBirdenElliye.csproj.AssemblyReference.cache
+C:\Users\ogrenci\Desktop\Miraç Arda Canbulat\ForDongusuBirdenElliye\ForDongusuBirdenElliye\obj\Debug\ForDongusuBirdenElliye.Form1.resources
+C:\Users\ogrenci\Desktop\Miraç Arda Canbulat\ForDongusuBirdenElliye\ForDongusuBirdenElliye\obj\Debug\ForDongusuBirdenElliye.Properties.Resources.resources
+C:\Users\ogrenci\Desktop\Miraç Arda Canbulat\ForDongusuBirdenElliye\ForDongusuBirdenElliye\obj\Debug\ForDongusuBirdenElliye.csproj.GenerateResource.cache
+C:\Users\ogrenci\Desktop\Miraç Arda Canbulat\ForDongusuBirdenElliye\ForDongusuBirdenElliye\obj\Debug\ForDongusuBirdenElliye.csproj.CoreCompileInputs.cache
+C:\Users\ogrenci\Desktop\Miraç Arda Canbulat\ForDongusuBirdenElliye\ForDongusuBirdenElliye\obj\Debug\ForDongusuBirdenElliye.exe
+C:\Users\ogrenci\Desktop\Miraç Arda Canbulat\ForDongusuBirdenElliye\ForDongusuBirdenElliye\obj\Debug\ForDongusuBirdenElliye.pdb

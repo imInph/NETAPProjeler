@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ogrenci\\Desktop\\Mira\u00E7 Arda Canbulat\\AramaButonu\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4A5AA770-5E2E-4F07-8979-EC49C09CBF37}|AramaButonu\\AramaButonu.csproj|c:\\users\\ogrenci\\desktop\\mira\u00E7 arda canbulat\\aramabutonu\\aramabutonu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A5AA770-5E2E-4F07-8979-EC49C09CBF37}|AramaButonu\\AramaButonu.csproj|solutionrelative:aramabutonu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A5AA770-5E2E-4F07-8979-EC49C09CBF37}|AramaButonu\\AramaButonu.csproj|c:\\users\\ogrenci\\desktop\\mira\u00E7 arda canbulat\\aramabutonu\\aramabutonu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4A5AA770-5E2E-4F07-8979-EC49C09CBF37}|AramaButonu\\AramaButonu.csproj|solutionrelative:aramabutonu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\ogrenci\\Desktop\\Mira\u00E7 Arda Canbulat\\AramaButonu\\AramaButonu\\Form1.cs",
+              "RelativeDocumentMoniker": "AramaButonu\\Form1.cs",
+              "ToolTip": "C:\\Users\\ogrenci\\Desktop\\Mira\u00E7 Arda Canbulat\\AramaButonu\\AramaButonu\\Form1.cs",
+              "RelativeToolTip": "AramaButonu\\Form1.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwBUAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T12:15:54.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\ogrenci\\Desktop\\Mira\u00E7 Arda Canbulat\\AramaButonu\\AramaButonu\\Form1.cs",
+              "RelativeDocumentMoniker": "AramaButonu\\Form1.cs",
+              "ToolTip": "C:\\Users\\ogrenci\\Desktop\\Mira\u00E7 Arda Canbulat\\AramaButonu\\AramaButonu\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "AramaButonu\\Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T12:08:16.967Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

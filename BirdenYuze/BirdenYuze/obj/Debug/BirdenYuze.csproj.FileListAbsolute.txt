@@ -1,0 +1,10 @@
+C:\Users\ogrenci\Desktop\Miraç Arda Canbulat\BirdenYuze\BirdenYuze\bin\Debug\BirdenYuze.exe.config
+C:\Users\ogrenci\Desktop\Miraç Arda Canbulat\BirdenYuze\BirdenYuze\bin\Debug\BirdenYuze.exe
+C:\Users\ogrenci\Desktop\Miraç Arda Canbulat\BirdenYuze\BirdenYuze\bin\Debug\BirdenYuze.pdb
+C:\Users\ogrenci\Desktop\Miraç Arda Canbulat\BirdenYuze\BirdenYuze\obj\Debug\BirdenYuze.csproj.AssemblyReference.cache
+C:\Users\ogrenci\Desktop\Miraç Arda Canbulat\BirdenYuze\BirdenYuze\obj\Debug\BirdenYuze.Form1.resources
+C:\Users\ogrenci\Desktop\Miraç Arda Canbulat\BirdenYuze\BirdenYuze\obj\Debug\BirdenYuze.Properties.Resources.resources
+C:\Users\ogrenci\Desktop\Miraç Arda Canbulat\BirdenYuze\BirdenYuze\obj\Debug\BirdenYuze.csproj.GenerateResource.cache
+C:\Users\ogrenci\Desktop\Miraç Arda Canbulat\BirdenYuze\BirdenYuze\obj\Debug\BirdenYuze.csproj.CoreCompileInputs.cache
+C:\Users\ogrenci\Desktop\Miraç Arda Canbulat\BirdenYuze\BirdenYuze\obj\Debug\BirdenYuze.exe
+C:\Users\ogrenci\Desktop\Miraç Arda Canbulat\BirdenYuze\BirdenYuze\obj\Debug\BirdenYuze.pdb

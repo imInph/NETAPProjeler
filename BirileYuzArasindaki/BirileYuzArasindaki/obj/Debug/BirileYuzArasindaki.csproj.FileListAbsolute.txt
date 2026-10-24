@@ -1,0 +1,10 @@
+C:\Users\ogrenci\Desktop\Miraç Arda Canbulat\BirileYuzArasindaki\BirileYuzArasindaki\obj\Debug\BirileYuzArasindaki.csproj.AssemblyReference.cache
+C:\Users\ogrenci\Desktop\Miraç Arda Canbulat\BirileYuzArasindaki\BirileYuzArasindaki\obj\Debug\BirileYuzArasindaki.Form1.resources
+C:\Users\ogrenci\Desktop\Miraç Arda Canbulat\BirileYuzArasindaki\BirileYuzArasindaki\obj\Debug\BirileYuzArasindaki.Properties.Resources.resources
+C:\Users\ogrenci\Desktop\Miraç Arda Canbulat\BirileYuzArasindaki\BirileYuzArasindaki\obj\Debug\BirileYuzArasindaki.csproj.GenerateResource.cache
+C:\Users\ogrenci\Desktop\Miraç Arda Canbulat\BirileYuzArasindaki\BirileYuzArasindaki\obj\Debug\BirileYuzArasindaki.csproj.CoreCompileInputs.cache
+C:\Users\ogrenci\Desktop\Miraç Arda Canbulat\BirileYuzArasindaki\BirileYuzArasindaki\bin\Debug\BirileYuzArasindaki.exe.config
+C:\Users\ogrenci\Desktop\Miraç Arda Canbulat\BirileYuzArasindaki\BirileYuzArasindaki\bin\Debug\BirileYuzArasindaki.exe
+C:\Users\ogrenci\Desktop\Miraç Arda Canbulat\BirileYuzArasindaki\BirileYuzArasindaki\bin\Debug\BirileYuzArasindaki.pdb
+C:\Users\ogrenci\Desktop\Miraç Arda Canbulat\BirileYuzArasindaki\BirileYuzArasindaki\obj\Debug\BirileYuzArasindaki.exe
+C:\Users\ogrenci\Desktop\Miraç Arda Canbulat\BirileYuzArasindaki\BirileYuzArasindaki\obj\Debug\BirileYuzArasindaki.pdb

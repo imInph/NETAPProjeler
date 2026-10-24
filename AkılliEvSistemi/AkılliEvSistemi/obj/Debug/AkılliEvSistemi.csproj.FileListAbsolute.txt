@@ -1,0 +1,10 @@
+C:\Users\ogrenci\Desktop\Miraç Arda\Ders\Netap\AkılliEvSistemi\AkılliEvSistemi\bin\Debug\AkılliEvSistemi.exe.config
+C:\Users\ogrenci\Desktop\Miraç Arda\Ders\Netap\AkılliEvSistemi\AkılliEvSistemi\bin\Debug\AkılliEvSistemi.exe
+C:\Users\ogrenci\Desktop\Miraç Arda\Ders\Netap\AkılliEvSistemi\AkılliEvSistemi\bin\Debug\AkılliEvSistemi.pdb
+C:\Users\ogrenci\Desktop\Miraç Arda\Ders\Netap\AkılliEvSistemi\AkılliEvSistemi\obj\Debug\AkılliEvSistemi.csproj.AssemblyReference.cache
+C:\Users\ogrenci\Desktop\Miraç Arda\Ders\Netap\AkılliEvSistemi\AkılliEvSistemi\obj\Debug\AkılliEvSistemi.Form1.resources
+C:\Users\ogrenci\Desktop\Miraç Arda\Ders\Netap\AkılliEvSistemi\AkılliEvSistemi\obj\Debug\AkılliEvSistemi.Properties.Resources.resources
+C:\Users\ogrenci\Desktop\Miraç Arda\Ders\Netap\AkılliEvSistemi\AkılliEvSistemi\obj\Debug\AkılliEvSistemi.csproj.GenerateResource.cache
+C:\Users\ogrenci\Desktop\Miraç Arda\Ders\Netap\AkılliEvSistemi\AkılliEvSistemi\obj\Debug\AkılliEvSistemi.csproj.CoreCompileInputs.cache
+C:\Users\ogrenci\Desktop\Miraç Arda\Ders\Netap\AkılliEvSistemi\AkılliEvSistemi\obj\Debug\AkılliEvSistemi.exe
+C:\Users\ogrenci\Desktop\Miraç Arda\Ders\Netap\AkılliEvSistemi\AkılliEvSistemi\obj\Debug\AkılliEvSistemi.pdb

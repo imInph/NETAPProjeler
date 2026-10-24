@@ -1,0 +1,10 @@
+C:\Users\ogrenci\Desktop\Miraç Arda Canbulat\BirdenYuzeKadarUceBolunemeyen\BirdenYuzeKadarUceBolunemeyen\bin\Debug\BirdenYuzeKadarUceBolunemeyen.exe.config
+C:\Users\ogrenci\Desktop\Miraç Arda Canbulat\BirdenYuzeKadarUceBolunemeyen\BirdenYuzeKadarUceBolunemeyen\bin\Debug\BirdenYuzeKadarUceBolunemeyen.exe
+C:\Users\ogrenci\Desktop\Miraç Arda Canbulat\BirdenYuzeKadarUceBolunemeyen\BirdenYuzeKadarUceBolunemeyen\bin\Debug\BirdenYuzeKadarUceBolunemeyen.pdb
+C:\Users\ogrenci\Desktop\Miraç Arda Canbulat\BirdenYuzeKadarUceBolunemeyen\BirdenYuzeKadarUceBolunemeyen\obj\Debug\BirdenYuzeKadarUceBolunemeyen.csproj.AssemblyReference.cache
+C:\Users\ogrenci\Desktop\Miraç Arda Canbulat\BirdenYuzeKadarUceBolunemeyen\BirdenYuzeKadarUceBolunemeyen\obj\Debug\BirdenYuzeKadarUceBolunemeyen.Form1.resources
+C:\Users\ogrenci\Desktop\Miraç Arda Canbulat\BirdenYuzeKadarUceBolunemeyen\BirdenYuzeKadarUceBolunemeyen\obj\Debug\BirdenYuzeKadarUceBolunemeyen.Properties.Resources.resources
+C:\Users\ogrenci\Desktop\Miraç Arda Canbulat\BirdenYuzeKadarUceBolunemeyen\BirdenYuzeKadarUceBolunemeyen\obj\Debug\BirdenYuzeKadarUceBolunemeyen.csproj.GenerateResource.cache
+C:\Users\ogrenci\Desktop\Miraç Arda Canbulat\BirdenYuzeKadarUceBolunemeyen\BirdenYuzeKadarUceBolunemeyen\obj\Debug\BirdenYuzeKadarUceBolunemeyen.csproj.CoreCompileInputs.cache
+C:\Users\ogrenci\Desktop\Miraç Arda Canbulat\BirdenYuzeKadarUceBolunemeyen\BirdenYuzeKadarUceBolunemeyen\obj\Debug\BirdenYuzeKadarUceBolunemeyen.exe
+C:\Users\ogrenci\Desktop\Miraç Arda Canbulat\BirdenYuzeKadarUceBolunemeyen\BirdenYuzeKadarUceBolunemeyen\obj\Debug\BirdenYuzeKadarUceBolunemeyen.pdb

@@ -1,0 +1,10 @@
+C:\Users\ogrenci\Desktop\Miraç Arda Canbulat\EllidenYetmis\EllidenYetmis\bin\Debug\EllidenYetmis.exe.config
+C:\Users\ogrenci\Desktop\Miraç Arda Canbulat\EllidenYetmis\EllidenYetmis\bin\Debug\EllidenYetmis.exe
+C:\Users\ogrenci\Desktop\Miraç Arda Canbulat\EllidenYetmis\EllidenYetmis\bin\Debug\EllidenYetmis.pdb
+C:\Users\ogrenci\Desktop\Miraç Arda Canbulat\EllidenYetmis\EllidenYetmis\obj\Debug\EllidenYetmis.csproj.AssemblyReference.cache
+C:\Users\ogrenci\Desktop\Miraç Arda Canbulat\EllidenYetmis\EllidenYetmis\obj\Debug\EllidenYetmis.Form1.resources
+C:\Users\ogrenci\Desktop\Miraç Arda Canbulat\EllidenYetmis\EllidenYetmis\obj\Debug\EllidenYetmis.Properties.Resources.resources
+C:\Users\ogrenci\Desktop\Miraç Arda Canbulat\EllidenYetmis\EllidenYetmis\obj\Debug\EllidenYetmis.csproj.GenerateResource.cache
+C:\Users\ogrenci\Desktop\Miraç Arda Canbulat\EllidenYetmis\EllidenYetmis\obj\Debug\EllidenYetmis.csproj.CoreCompileInputs.cache
+C:\Users\ogrenci\Desktop\Miraç Arda Canbulat\EllidenYetmis\EllidenYetmis\obj\Debug\EllidenYetmis.exe
+C:\Users\ogrenci\Desktop\Miraç Arda Canbulat\EllidenYetmis\EllidenYetmis\obj\Debug\EllidenYetmis.pdb

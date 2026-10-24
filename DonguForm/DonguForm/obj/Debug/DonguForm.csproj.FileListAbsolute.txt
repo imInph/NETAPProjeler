@@ -1,0 +1,10 @@
+C:\Users\ogrenci\Desktop\Miraç Arda Canbulat\DonguForm\DonguForm\bin\Debug\DonguForm.exe.config
+C:\Users\ogrenci\Desktop\Miraç Arda Canbulat\DonguForm\DonguForm\bin\Debug\DonguForm.exe
+C:\Users\ogrenci\Desktop\Miraç Arda Canbulat\DonguForm\DonguForm\bin\Debug\DonguForm.pdb
+C:\Users\ogrenci\Desktop\Miraç Arda Canbulat\DonguForm\DonguForm\obj\Debug\DonguForm.csproj.AssemblyReference.cache
+C:\Users\ogrenci\Desktop\Miraç Arda Canbulat\DonguForm\DonguForm\obj\Debug\DonguForm.Form1.resources
+C:\Users\ogrenci\Desktop\Miraç Arda Canbulat\DonguForm\DonguForm\obj\Debug\DonguForm.Properties.Resources.resources
+C:\Users\ogrenci\Desktop\Miraç Arda Canbulat\DonguForm\DonguForm\obj\Debug\DonguForm.csproj.GenerateResource.cache
+C:\Users\ogrenci\Desktop\Miraç Arda Canbulat\DonguForm\DonguForm\obj\Debug\DonguForm.csproj.CoreCompileInputs.cache
+C:\Users\ogrenci\Desktop\Miraç Arda Canbulat\DonguForm\DonguForm\obj\Debug\DonguForm.exe
+C:\Users\ogrenci\Desktop\Miraç Arda Canbulat\DonguForm\DonguForm\obj\Debug\DonguForm.pdb

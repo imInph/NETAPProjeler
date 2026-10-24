@@ -1,0 +1,10 @@
+C:\Users\ogrenci\Desktop\Miraç Arda Canbulat\YuzdenBire\YuzdenBire\bin\Debug\YuzdenBire.exe.config
+C:\Users\ogrenci\Desktop\Miraç Arda Canbulat\YuzdenBire\YuzdenBire\bin\Debug\YuzdenBire.exe
+C:\Users\ogrenci\Desktop\Miraç Arda Canbulat\YuzdenBire\YuzdenBire\bin\Debug\YuzdenBire.pdb
+C:\Users\ogrenci\Desktop\Miraç Arda Canbulat\YuzdenBire\YuzdenBire\obj\Debug\YuzdenBire.csproj.AssemblyReference.cache
+C:\Users\ogrenci\Desktop\Miraç Arda Canbulat\YuzdenBire\YuzdenBire\obj\Debug\YuzdenBire.Form1.resources
+C:\Users\ogrenci\Desktop\Miraç Arda Canbulat\YuzdenBire\YuzdenBire\obj\Debug\YuzdenBire.Properties.Resources.resources
+C:\Users\ogrenci\Desktop\Miraç Arda Canbulat\YuzdenBire\YuzdenBire\obj\Debug\YuzdenBire.csproj.GenerateResource.cache
+C:\Users\ogrenci\Desktop\Miraç Arda Canbulat\YuzdenBire\YuzdenBire\obj\Debug\YuzdenBire.csproj.CoreCompileInputs.cache
+C:\Users\ogrenci\Desktop\Miraç Arda Canbulat\YuzdenBire\YuzdenBire\obj\Debug\YuzdenBire.exe
+C:\Users\ogrenci\Desktop\Miraç Arda Canbulat\YuzdenBire\YuzdenBire\obj\Debug\YuzdenBire.pdb
