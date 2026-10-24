@@ -1,0 +1,31 @@
+﻿<Window x:Class="WpfApp2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp2"
+        mc:Ignorable="d"
+        Title="Test" Height="338" Width="489">
+    <Grid Margin="0,0,0,-6">
+        <Label Content="Test" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Height="40" Width="102" FontSize="18"/>
+        <TextBox x:Name="testTextBox" HorizontalAlignment="Left" Margin="10,50,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="126" Height="33" FontSize="18"/>
+        <Button Content="Testing" HorizontalAlignment="Left" Margin="10,88,0,0" VerticalAlignment="Top" Height="38" Width="116" Cursor="Hand" FontSize="20" Click="Button_Click">
+            <Button.Template>
+                <ControlTemplate TargetType="Button">
+                    <Border CornerRadius="15" BorderBrush="Teal" BorderThickness="{TemplateBinding BorderThickness}" Background="Bisque">
+                        <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                    </Border>
+                </ControlTemplate>
+            </Button.Template>
+        </Button>
+        <Label x:Name="testLabel" Content="Test" HorizontalAlignment="Left" Margin="10,131,0,0" VerticalAlignment="Top" Height="40" Width="192" FontSize="18"/>
+        <Expander HorizontalAlignment="Left" Height="100" Header="Expander" Margin="363,10,0,0" VerticalAlignment="Top" Width="100">
+            <Grid Background="#FFE5E5E5"/>
+        </Expander>
+        <Slider HorizontalAlignment="Left" Margin="178,225,0,0" VerticalAlignment="Top" Width="120"/>
+        <StackPanel>
+            <StackPanel Height="100"/>
+        </StackPanel>
+
+    </Grid>
+</Window>

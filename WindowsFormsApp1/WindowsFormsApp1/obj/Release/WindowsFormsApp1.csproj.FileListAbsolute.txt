@@ -1,0 +1,15 @@
+C:\Users\kaevo\Documents\VS\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\kaevo\Documents\VS\WindowsFormsApp1\WindowsFormsApp1\obj\Release\KayitSistemi.Form1.resources
+C:\Users\kaevo\Documents\VS\WindowsFormsApp1\WindowsFormsApp1\obj\Release\KayitSistemi.Properties.Resources.resources
+C:\Users\kaevo\Documents\VS\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\kaevo\Documents\VS\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\kaevo\Documents\VS\WindowsFormsApp1\WindowsFormsApp1\bin\Release\KayitSistemi.exe.config
+C:\Users\kaevo\Documents\VS\WindowsFormsApp1\WindowsFormsApp1\bin\Release\KayitSistemi.exe.manifest
+C:\Users\kaevo\Documents\VS\WindowsFormsApp1\WindowsFormsApp1\bin\Release\KayitSistemi.application
+C:\Users\kaevo\Documents\VS\WindowsFormsApp1\WindowsFormsApp1\bin\Release\KayitSistemi.exe
+C:\Users\kaevo\Documents\VS\WindowsFormsApp1\WindowsFormsApp1\bin\Release\KayitSistemi.pdb
+C:\Users\kaevo\Documents\VS\WindowsFormsApp1\WindowsFormsApp1\obj\Release\KayitSistemi.exe.manifest
+C:\Users\kaevo\Documents\VS\WindowsFormsApp1\WindowsFormsApp1\obj\Release\KayitSistemi.application
+C:\Users\kaevo\Documents\VS\WindowsFormsApp1\WindowsFormsApp1\obj\Release\KayitSistemi.exe
+C:\Users\kaevo\Documents\VS\WindowsFormsApp1\WindowsFormsApp1\obj\Release\KayitSistemi.pdb
+C:\Users\kaevo\Documents\VS\WindowsFormsApp1\WindowsFormsApp1\obj\Release\KayitSistemi.exe.config

@@ -1,0 +1,16 @@
+C:\Users\kaevo\Documents\VS\TestingStuff\TestingStuff\bin\Debug\net8.0-windows\TestingStuff.exe
+C:\Users\kaevo\Documents\VS\TestingStuff\TestingStuff\bin\Debug\net8.0-windows\TestingStuff.deps.json
+C:\Users\kaevo\Documents\VS\TestingStuff\TestingStuff\bin\Debug\net8.0-windows\TestingStuff.runtimeconfig.json
+C:\Users\kaevo\Documents\VS\TestingStuff\TestingStuff\bin\Debug\net8.0-windows\TestingStuff.dll
+C:\Users\kaevo\Documents\VS\TestingStuff\TestingStuff\bin\Debug\net8.0-windows\TestingStuff.pdb
+C:\Users\kaevo\Documents\VS\TestingStuff\TestingStuff\obj\Debug\net8.0-windows\TestingStuff.Form1.resources
+C:\Users\kaevo\Documents\VS\TestingStuff\TestingStuff\obj\Debug\net8.0-windows\TestingStuff.csproj.GenerateResource.cache
+C:\Users\kaevo\Documents\VS\TestingStuff\TestingStuff\obj\Debug\net8.0-windows\TestingStuff.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaevo\Documents\VS\TestingStuff\TestingStuff\obj\Debug\net8.0-windows\TestingStuff.AssemblyInfoInputs.cache
+C:\Users\kaevo\Documents\VS\TestingStuff\TestingStuff\obj\Debug\net8.0-windows\TestingStuff.AssemblyInfo.cs
+C:\Users\kaevo\Documents\VS\TestingStuff\TestingStuff\obj\Debug\net8.0-windows\TestingStuff.csproj.CoreCompileInputs.cache
+C:\Users\kaevo\Documents\VS\TestingStuff\TestingStuff\obj\Debug\net8.0-windows\TestingStuff.dll
+C:\Users\kaevo\Documents\VS\TestingStuff\TestingStuff\obj\Debug\net8.0-windows\refint\TestingStuff.dll
+C:\Users\kaevo\Documents\VS\TestingStuff\TestingStuff\obj\Debug\net8.0-windows\TestingStuff.pdb
+C:\Users\kaevo\Documents\VS\TestingStuff\TestingStuff\obj\Debug\net8.0-windows\TestingStuff.genruntimeconfig.cache
+C:\Users\kaevo\Documents\VS\TestingStuff\TestingStuff\obj\Debug\net8.0-windows\ref\TestingStuff.dll

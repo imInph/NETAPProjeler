@@ -1,0 +1,16 @@
+C:\Users\kaevo\Documents\VS\WinFormsLearning\WinFormsLearning\bin\Release\net8.0-windows\WinFormsLearning.exe
+C:\Users\kaevo\Documents\VS\WinFormsLearning\WinFormsLearning\bin\Release\net8.0-windows\WinFormsLearning.deps.json
+C:\Users\kaevo\Documents\VS\WinFormsLearning\WinFormsLearning\bin\Release\net8.0-windows\WinFormsLearning.runtimeconfig.json
+C:\Users\kaevo\Documents\VS\WinFormsLearning\WinFormsLearning\bin\Release\net8.0-windows\WinFormsLearning.dll
+C:\Users\kaevo\Documents\VS\WinFormsLearning\WinFormsLearning\bin\Release\net8.0-windows\WinFormsLearning.pdb
+C:\Users\kaevo\Documents\VS\WinFormsLearning\WinFormsLearning\obj\Release\net8.0-windows\WinFormsLearning.Form1.resources
+C:\Users\kaevo\Documents\VS\WinFormsLearning\WinFormsLearning\obj\Release\net8.0-windows\WinFormsLearning.csproj.GenerateResource.cache
+C:\Users\kaevo\Documents\VS\WinFormsLearning\WinFormsLearning\obj\Release\net8.0-windows\WinFormsLearning.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaevo\Documents\VS\WinFormsLearning\WinFormsLearning\obj\Release\net8.0-windows\WinFormsLearning.AssemblyInfoInputs.cache
+C:\Users\kaevo\Documents\VS\WinFormsLearning\WinFormsLearning\obj\Release\net8.0-windows\WinFormsLearning.AssemblyInfo.cs
+C:\Users\kaevo\Documents\VS\WinFormsLearning\WinFormsLearning\obj\Release\net8.0-windows\WinFormsLearning.csproj.CoreCompileInputs.cache
+C:\Users\kaevo\Documents\VS\WinFormsLearning\WinFormsLearning\obj\Release\net8.0-windows\WinFormsLearning.dll
+C:\Users\kaevo\Documents\VS\WinFormsLearning\WinFormsLearning\obj\Release\net8.0-windows\refint\WinFormsLearning.dll
+C:\Users\kaevo\Documents\VS\WinFormsLearning\WinFormsLearning\obj\Release\net8.0-windows\WinFormsLearning.pdb
+C:\Users\kaevo\Documents\VS\WinFormsLearning\WinFormsLearning\obj\Release\net8.0-windows\WinFormsLearning.genruntimeconfig.cache
+C:\Users\kaevo\Documents\VS\WinFormsLearning\WinFormsLearning\obj\Release\net8.0-windows\ref\WinFormsLearning.dll

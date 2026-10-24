@@ -1,0 +1,5 @@
+C:\Users\kaevo\Documents\VS\TipCalculator\TipCalculator\bin\Release\net8.0-windows\publish\TipCalculator.exe
+C:\Users\kaevo\Documents\VS\TipCalculator\TipCalculator\bin\Release\net8.0-windows\publish\TipCalculator.dll
+C:\Users\kaevo\Documents\VS\TipCalculator\TipCalculator\bin\Release\net8.0-windows\publish\TipCalculator.deps.json
+C:\Users\kaevo\Documents\VS\TipCalculator\TipCalculator\bin\Release\net8.0-windows\publish\TipCalculator.runtimeconfig.json
+C:\Users\kaevo\Documents\VS\TipCalculator\TipCalculator\bin\Release\net8.0-windows\publish\TipCalculator.pdb

@@ -1,0 +1,39 @@
+﻿<Window x:Class="WpfApp1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp1"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Button Content="Testing"
+                HorizontalAlignment="Center"
+                Margin="0,217,0,0"
+                VerticalAlignment="Top"
+                Height="63"
+                Width="124"
+                Cursor="Hand"
+                FontSize="20">
+            <Button.Template>
+                <ControlTemplate TargetType="Button">
+                    <Grid>
+                        <!-- Custom shape with cut corners -->
+                        <Path Fill="{TemplateBinding Background}"
+                              Stroke="{TemplateBinding BorderBrush}"
+                              StrokeThickness="{TemplateBinding BorderThickness}">
+                            <Path.Data>
+                                <!-- Rectangle with diagonal cut corners -->
+                                <Polygon Points="0,10 10,0 114,0 124,10 124,53 114,63 10,63 0,53"/>
+                            </Path.Data>
+                        </Path>
+                        <!-- Content inside -->
+                        <ContentPresenter HorizontalAlignment="Center"
+                                          VerticalAlignment="Center"
+                                          RecognizesAccessKey="True"/>
+                    </Grid>
+                </ControlTemplate>
+            </Button.Template>
+        </Button>
+    </Grid>
+</Window>

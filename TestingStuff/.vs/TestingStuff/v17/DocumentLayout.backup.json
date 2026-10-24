@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kaevo\\Documents\\VS\\TestingStuff\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7C2ED7AE-BAF5-4820-9979-7C4539927812}|TestingStuff\\TestingStuff.csproj|c:\\users\\kaevo\\documents\\vs\\testingstuff\\testingstuff\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7C2ED7AE-BAF5-4820-9979-7C4539927812}|TestingStuff\\TestingStuff.csproj|solutionrelative:testingstuff\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C2ED7AE-BAF5-4820-9979-7C4539927812}|TestingStuff\\TestingStuff.csproj|c:\\users\\kaevo\\documents\\vs\\testingstuff\\testingstuff\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C2ED7AE-BAF5-4820-9979-7C4539927812}|TestingStuff\\TestingStuff.csproj|solutionrelative:testingstuff\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\kaevo\\Documents\\VS\\TestingStuff\\TestingStuff\\Form1.cs",
+              "RelativeDocumentMoniker": "TestingStuff\\Form1.cs",
+              "ToolTip": "C:\\Users\\kaevo\\Documents\\VS\\TestingStuff\\TestingStuff\\Form1.cs",
+              "RelativeToolTip": "TestingStuff\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T14:28:54.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\kaevo\\Documents\\VS\\TestingStuff\\TestingStuff\\Form1.cs",
+              "RelativeDocumentMoniker": "TestingStuff\\Form1.cs",
+              "ToolTip": "C:\\Users\\kaevo\\Documents\\VS\\TestingStuff\\TestingStuff\\Form1.cs [Design]",
+              "RelativeToolTip": "TestingStuff\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T14:28:15.136Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

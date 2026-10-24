@@ -1,0 +1,5 @@
+C:\Users\kaevo\Documents\VS\PassGen\PassGen\bin\Release\net8.0-windows\app.publish\PassGen.exe
+C:\Users\kaevo\Documents\VS\PassGen\PassGen\bin\Release\net8.0-windows\app.publish\PassGen.dll
+C:\Users\kaevo\Documents\VS\PassGen\PassGen\bin\Release\net8.0-windows\app.publish\PassGen.deps.json
+C:\Users\kaevo\Documents\VS\PassGen\PassGen\bin\Release\net8.0-windows\app.publish\PassGen.runtimeconfig.json
+C:\Users\kaevo\Documents\VS\PassGen\PassGen\bin\Release\net8.0-windows\app.publish\PassGen.pdb

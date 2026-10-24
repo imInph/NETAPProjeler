@@ -1,0 +1,5 @@
+C:\Users\kaevo\Documents\VS\WinFormsLearning\WinFormsLearning\bin\Release\net8.0-windows\publish\WinFormsLearning.exe
+C:\Users\kaevo\Documents\VS\WinFormsLearning\WinFormsLearning\bin\Release\net8.0-windows\publish\WinFormsLearning.dll
+C:\Users\kaevo\Documents\VS\WinFormsLearning\WinFormsLearning\bin\Release\net8.0-windows\publish\WinFormsLearning.deps.json
+C:\Users\kaevo\Documents\VS\WinFormsLearning\WinFormsLearning\bin\Release\net8.0-windows\publish\WinFormsLearning.runtimeconfig.json
+C:\Users\kaevo\Documents\VS\WinFormsLearning\WinFormsLearning\bin\Release\net8.0-windows\publish\WinFormsLearning.pdb

@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="KayitSistemi.exe" version="1.0.0.1" publicKeyToken="aabcdcd9e18e2ce1" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="KayitSistemi" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="KayitSistemi.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="KayitSistemi.exe" size="28128">
+      <assemblyIdentity name="KayitSistemi" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>vhNV1CrvuKrJO4lzfiUWQpl35rfaypVNAn/CNHVtlqs=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="KayitSistemi.exe.config" size="187">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>+CM46OnHRrXZXNLMx7+U3V3iubiYL//d8hGOR13lDhU=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=DESKTOP-2G4A339\kaevo" issuerKeyHash="3ad266ca17651e347934f20f792dcda545dc47bd" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>4JHlBP4iSh+Uu6I2/I0E0KYEwzr9dD3TSjp/lnQRY+U=</DigestValue></Reference></SignedInfo><SignatureValue>QWpY/wpg5Z8LZdlxhOdV1J3rHzNARs0jIqSbOGNH0nwgSDKwzwauBzY9F7G0uf55P94x6WHI/3mtFxJYbYN0DDFmwPfCGuGrfYwUF1NpaHyLtISaSa4AEoQefy3q4eNjLb0UKd7BS5Vx2ajt3My/1zuCUdlP9amu0IikVHLZzuI=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>2UXZZK7hqO6LxXxcXKXLh1NvvrunH3ysuhiRP7lVsmyGTRLRS5/fBQ2TYFovLiG3fVheJ1mf8v6G3b6SeUMGJfrNpZCNxC+IEQ5s27nJ5BG7PwpI97/Hggj2KgTK1fSgZRQ7fwqtdDd3Rz7McsMrZA0TrMFow8PXf+vnGaTpd0k=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="e5631174967f3a4ad33d74fd3ac304a6d0048dfc36a2bb941f4a22fe04e591e0" Description="" Url=""><as:assemblyIdentity name="KayitSistemi.exe" version="1.0.0.1" publicKeyToken="aabcdcd9e18e2ce1" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=DESKTOP-2G4A339\kaevo</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>DQMsSqiaWH5q5g0p2vXaaYNZdOwUoVHoKsy5Vj7AV0Q=</DigestValue></Reference></SignedInfo><SignatureValue>K6sRCwhOjP5bGupUmp1nbY+I437lqZzq85/g0CmEoLGp94CqANvsQ2eGhriGeCzci47yAXeQZrZ21wYiNFzZsqV1WLbTKQlXuVqUoeIpg8+M/ldzzHsZSIELMEmOPgbT5cuUJ8DU9KPRFiOdSA0u9czZultlCdV5DJX7m91wA6c=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>2UXZZK7hqO6LxXxcXKXLh1NvvrunH3ysuhiRP7lVsmyGTRLRS5/fBQ2TYFovLiG3fVheJ1mf8v6G3b6SeUMGJfrNpZCNxC+IEQ5s27nJ5BG7PwpI97/Hggj2KgTK1fSgZRQ7fwqtdDd3Rz7McsMrZA0TrMFow8PXf+vnGaTpd0k=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB7TCCAVagAwIBAgIQKVZam8jE651BXJ265Cz59TANBgkqhkiG9w0BAQsFADA1MTMwMQYDVQQDHioARABFAFMASwBUAE8AUAAtADIARwA0AEEAMwAzADkAXABrAGEAZQB2AG8wHhcNMjUwOTE2MjEyNDA2WhcNMjYwOTE3MDMyNDA2WjA1MTMwMQYDVQQDHioARABFAFMASwBUAE8AUAAtADIARwA0AEEAMwAzADkAXABrAGEAZQB2AG8wgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBANlF2WSu4ajui8V8XFyly4dTb767px98rLoYkT+5VbJshk0S0Uuf3wUNk2BaLy4ht31YXidZn/L+ht2+knlDBiX6zaWQjcQviBEObNu5yeQRuz8KSPe/x4II9ioEytX0oGUUO38KrXQ3d0c+zHLDK2QNE6zBaMPD13/r5xmk6XdJAgMBAAEwDQYJKoZIhvcNAQELBQADgYEAT//GNpZMo43zMX8NiF7YiKFMqAGN4zyScO5Z1AZseyAL2gv8eecvCY0I10NgQDsQHkJlfat3m5ieMlNTYhuZsyjoCVJVgTXCk6+yav0OJn10K35Xuo45HLi8q5yDDmaxMZ1cD+i6J63AnYJwlLiy+ACHpy3TeW4HoSlHWvD+vhA=</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

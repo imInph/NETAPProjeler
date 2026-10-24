@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kaevo\\Documents\\VS\\TipCalculator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9B792F65-A263-4A54-9AB2-5D61504EFBA6}|TipCalculator\\TipCalculator.csproj|c:\\users\\kaevo\\documents\\vs\\tipcalculator\\tipcalculator\\customtippage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B792F65-A263-4A54-9AB2-5D61504EFBA6}|TipCalculator\\TipCalculator.csproj|solutionrelative:tipcalculator\\customtippage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B792F65-A263-4A54-9AB2-5D61504EFBA6}|TipCalculator\\TipCalculator.csproj|c:\\users\\kaevo\\documents\\vs\\tipcalculator\\tipcalculator\\customtippage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9B792F65-A263-4A54-9AB2-5D61504EFBA6}|TipCalculator\\TipCalculator.csproj|solutionrelative:tipcalculator\\customtippage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B792F65-A263-4A54-9AB2-5D61504EFBA6}|TipCalculator\\TipCalculator.csproj|c:\\users\\kaevo\\documents\\vs\\tipcalculator\\tipcalculator\\tipentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B792F65-A263-4A54-9AB2-5D61504EFBA6}|TipCalculator\\TipCalculator.csproj|solutionrelative:tipcalculator\\tipentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B792F65-A263-4A54-9AB2-5D61504EFBA6}|TipCalculator\\TipCalculator.csproj|c:\\users\\kaevo\\documents\\vs\\tipcalculator\\tipcalculator\\thankyoupage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9B792F65-A263-4A54-9AB2-5D61504EFBA6}|TipCalculator\\TipCalculator.csproj|solutionrelative:tipcalculator\\thankyoupage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B792F65-A263-4A54-9AB2-5D61504EFBA6}|TipCalculator\\TipCalculator.csproj|c:\\users\\kaevo\\documents\\vs\\tipcalculator\\tipcalculator\\tipentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9B792F65-A263-4A54-9AB2-5D61504EFBA6}|TipCalculator\\TipCalculator.csproj|solutionrelative:tipcalculator\\tipentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B792F65-A263-4A54-9AB2-5D61504EFBA6}|TipCalculator\\TipCalculator.csproj|c:\\users\\kaevo\\documents\\vs\\tipcalculator\\tipcalculator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9B792F65-A263-4A54-9AB2-5D61504EFBA6}|TipCalculator\\TipCalculator.csproj|solutionrelative:tipcalculator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomTipPage.cs",
+              "DocumentMoniker": "C:\\Users\\kaevo\\Documents\\VS\\TipCalculator\\TipCalculator\\CustomTipPage.cs",
+              "RelativeDocumentMoniker": "TipCalculator\\CustomTipPage.cs",
+              "ToolTip": "C:\\Users\\kaevo\\Documents\\VS\\TipCalculator\\TipCalculator\\CustomTipPage.cs",
+              "RelativeToolTip": "TipCalculator\\CustomTipPage.cs",
+              "ViewState": "AgIAAIIAAAAAAAAAAAAawIgAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-11T21:56:20.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TipEntry.cs",
+              "DocumentMoniker": "C:\\Users\\kaevo\\Documents\\VS\\TipCalculator\\TipCalculator\\TipEntry.cs",
+              "RelativeDocumentMoniker": "TipCalculator\\TipEntry.cs",
+              "ToolTip": "C:\\Users\\kaevo\\Documents\\VS\\TipCalculator\\TipCalculator\\TipEntry.cs",
+              "RelativeToolTip": "TipCalculator\\TipEntry.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAEwGoAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-11T21:52:15.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ThankYouPage.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\kaevo\\Documents\\VS\\TipCalculator\\TipCalculator\\ThankYouPage.cs",
+              "RelativeDocumentMoniker": "TipCalculator\\ThankYouPage.cs",
+              "ToolTip": "C:\\Users\\kaevo\\Documents\\VS\\TipCalculator\\TipCalculator\\ThankYouPage.cs [Design]",
+              "RelativeToolTip": "TipCalculator\\ThankYouPage.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-11T21:06:53.463Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomTipPage.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\kaevo\\Documents\\VS\\TipCalculator\\TipCalculator\\CustomTipPage.cs",
+              "RelativeDocumentMoniker": "TipCalculator\\CustomTipPage.cs",
+              "ToolTip": "C:\\Users\\kaevo\\Documents\\VS\\TipCalculator\\TipCalculator\\CustomTipPage.cs [Design]",
+              "RelativeToolTip": "TipCalculator\\CustomTipPage.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-11T17:59:47.09Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TipEntry.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\kaevo\\Documents\\VS\\TipCalculator\\TipCalculator\\TipEntry.cs",
+              "RelativeDocumentMoniker": "TipCalculator\\TipEntry.cs",
+              "ToolTip": "C:\\Users\\kaevo\\Documents\\VS\\TipCalculator\\TipCalculator\\TipEntry.cs [Design]",
+              "RelativeToolTip": "TipCalculator\\TipEntry.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-11T14:57:40.74Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\kaevo\\Documents\\VS\\TipCalculator\\TipCalculator\\Form1.cs",
+              "RelativeDocumentMoniker": "TipCalculator\\Form1.cs",
+              "ToolTip": "C:\\Users\\kaevo\\Documents\\VS\\TipCalculator\\TipCalculator\\Form1.cs [Design]",
+              "RelativeToolTip": "TipCalculator\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-11T14:16:48.292Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
